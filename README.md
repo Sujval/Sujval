@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujval Rai
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning Data Science
+- 🌱 Data Analyst
 - 📫 How to reach me raisujval@gmail.com
 
 <!---
