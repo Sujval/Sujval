@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujval Rai
+- 👋 Hi, I’m @Dravya S Rai
 - 👀 I’m interested in exploring new things
 - 🌱 Data Analyst
 - 📫 How to reach me raisujval@gmail.com
